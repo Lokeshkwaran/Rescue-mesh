@@ -78,3 +78,7 @@ Sensor Detection → Edge Processing → GPS Location → LoRa Communication →
 ## 🏆 Hackathon
 
 Built for **Build With Bharat 2.0 – National Level Hackathon**.
+
+## 🏗️ System Architecture
+
+![Rescue-Mesh System Architecture](docs/architecture-diagram.png)

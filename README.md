@@ -62,11 +62,11 @@ Rescue-mesh/
 │
 └── presentation/
 
-## 🔄 System Workflow
+🔄 System Workflow
 
 Sensor Detection → Edge Processing → GPS Location → LoRa Communication → Mesh Network → Command Dashboard → Rescue Team
 
-## 👥 Team Members
+👥 Team Members
 
 - K LOKESHWARAN
 - M SHAMVAS RAJA
@@ -74,6 +74,6 @@ Sensor Detection → Edge Processing → GPS Location → LoRa Communication →
 - M NITHISH KUMAR
 - N S GEETHALAXMI
 
-## 🏆 Hackathon
+🏆 Hackathon
 
 Built for **Build With Bharat 2.0 – National Level Hackathon**.

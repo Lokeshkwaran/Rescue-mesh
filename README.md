@@ -61,3 +61,19 @@ Rescue-mesh/
 │   └── architecture.md
 │
 └── presentation/
+
+## 🔄 System Workflow
+
+Sensor Detection → Edge Processing → GPS Location → LoRa Communication → Mesh Network → Command Dashboard → Rescue Team
+
+## 👥 Team Members
+
+- K LOKESHWARAN
+- M SHAMVAS RAJA
+- S PRIYA DHARSHAN
+- M NITHISH KUMAR
+- N S GEETHALAXMI
+
+## 🏆 Hackathon
+
+Built for **Build With Bharat 2.0 – National Level Hackathon**.

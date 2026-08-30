@@ -81,4 +81,4 @@ Built for **Build With Bharat 2.0 – National Level Hackathon**.
 
 ## 🏗️ System Architecture
 
-![Rescue-Mesh System Architecture](docs/architecture-diagram.png)
+![Rescue-Mesh System Architecture](docs/architecture-diagram.png.png)

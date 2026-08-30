@@ -69,8 +69,8 @@ Sensor Detection → Edge Processing → GPS Location → LoRa Communication →
 
 ## 👥 Team Members
 
-- K LOKESHWARAN
 - M SHAMVAS RAJA
+- K LOKESHWARAN
 - S PRIYA DHARSHAN
 - M NITHISH KUMAR
 - N S GEETHALAXMI

@@ -2,26 +2,34 @@
 <html>
 <head>
     <title>Rescue-Mesh Command Dashboard</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
+<div class="dashboard">
+
     <h1>🚨 Rescue-Mesh Emergency Command Dashboard</h1>
 
-    <h2>System Status</h2>
-    <p>🟢 Mesh Network: Active</p>
-    <p>📡 LoRa Gateway: Connected</p>
-
-    <h2>Survivor Alerts</h2>
-
-    <div>
-        <h3>🚨 Survivor Signal Detected</h3>
-        <p>Location: GPS coordinates will appear here</p>
-        <p>Priority: HIGH</p>
+    <div class="card">
+        <h2>System Status</h2>
+        <p>🟢 Mesh Network: Active</p>
+        <p>📡 LoRa Gateway: Connected</p>
     </div>
 
-    <h2>Rescue-Mesh</h2>
-    <p>Real-time disaster rescue monitoring system.</p>
+    <div class="card alert">
+        <h2>🚨 Survivor Alert</h2>
+        <h3>Survivor Signal Detected</h3>
+        <p>📍 Location: GPS coordinates will appear here</p>
+        <p>⚠️ Priority: HIGH</p>
+    </div>
+
+    <div class="card">
+        <h2>About Rescue-Mesh</h2>
+        <p>Real-time disaster rescue monitoring and survivor detection system.</p>
+    </div>
+
+</div>
 
 </body>
 </html>
